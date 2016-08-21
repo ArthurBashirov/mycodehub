@@ -1,0 +1,468 @@
+* {
+	text-decoration: none;
+	margin: 0; 
+	padding: 0;
+}
+
+body {
+	background: #f0f2f1;
+ }
+    
+ 								/* КОНЕЦ КОДА */
+
+
+ 
+ 
+ 							/* ШАПКА ГДЕ ИДЕТ ОСНОВНОЕ ОПИСАНИЕ ТЭГУ */
+header {
+ 	text-align: center;
+	width: 100%;
+	padding-top: 200px;
+	padding-bottom: 100px;
+	margin-bottom: 0px;
+	opacity: 0.85;
+	color: #5fcf80;
+	font-size: 1.95em;
+	min-height: 100%;
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+}
+ 								/* КОНЕЦ КОДА */
+ 								
+ 								
+ 								
+ 								
+ 							/* КОНТЕЙНЕР СО ВСЕМ КОНТЕНТОМ */
+
+
+h5 {
+ 	color: gray;
+ 	font-size: 1.1rem;
+ 	margin: 22px
+}
+
+.main_1{ 					/* класс хэдера на главной странице */
+  	text-align: center;
+	width: 100%;
+	padding-top: 200px;
+	padding-bottom: 100px;
+	margin-bottom: 0px;
+	opacity: 0.85;
+	font-size: 1.95em;
+	min-height: 100%;
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+	font-family: "varela round";
+	color: #5fcf80;
+
+}
+
+
+.tt_main{ 					/* класс выделения hub на главное странице */
+		color: #fca523;
+
+}
+
+
+.head {
+	background: #5fcf80;
+	color: white;
+ 	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+ 	opacity: 0.85;
+	color: white;
+	font-size: 1.6em;
+	min-height: 100%;
+	font-family: "varela round";
+
+ }
+ 
+ h6{ 	/*  ищи код на главной странице */
+ 	font-family: roboto;
+	 	font-weight: 400;
+	 	font-size: 0.6em;
+ }
+ 
+ .fonta{
+	 margin: 19px;
+ 	color: rgba(127, 127, 127, 0.47);
+ }
+ 
+ .fonta:hover{
+ 	 		color: #5fcf80;
+	 		
+ 
+  }
+ 
+ 
+
+ 								/* Ковычки у article */
+.tt{ 
+	color: rgba(253,  166,  35, 0.55);
+}
+ 								/* КОНЕЦ КОДА */
+ 								
+ 								
+
+
+ 							/* ВЕСЬ ОСНОВНОЙ КОНТЕНТ */
+
+.wrap{
+	margin: 0px 320px;
+	margin-left: 70px;
+ 	background: white;
+ 	margin-top: 2px;
+ 	font-family: "sero pro";
+ 	line-height: 20px;
+  	font-size: 0.95em;
+  	background-color: #f0f2f1;
+    }
+    
+     							/* ДЕЛАЕМ ЦВЕТ ТЭГА COODE */
+ 
+code {
+ 	 font-family: "consolas";
+ 	 color: #2bafaf;
+ 	 font-weight: 700;
+ }
+     
+   
+
+ .syntax{
+	 text-align: center;
+	 margin: 29px;
+ 	 color: #aaaaaa;
+	 font-size: 1.5em;
+ }
+   
+.style_title{
+	color: #adadad;
+	font-family: "roboto condensed";
+  	font-weight: 500;
+  	text-align: center
+	}
+
+
+
+
+.section1 {
+	margin-top: 10px;
+ 	width: auto;
+    padding: 11px;
+	height: 100%;
+	background-color: white;
+ 	text-align: justify;
+	align-items: center;
+box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+border-radius: 4px;
+overflow: hidden;
+ 	
+}
+
+.section2 {
+	width: auto;
+ 	margin-left: auto;
+   	padding: 11px;
+ 	height: 100%;
+	margin-top: 10px;
+ 	text-align: justify;
+	justify-content: center;
+	background-color: white;
+	align-items: center;
+box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+border-radius: 4px;
+overflow: hidden;
+ }
+ 
+
+ 
+ 
+.section3{
+	width: auto;
+ 	margin-left: auto;
+ 	margin-top: 10px;
+ 	padding: 11px;
+    text-align: justify;
+	justify-content: center;
+	height: 100%;
+	background-color: white;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	border-radius: 4px;
+ }
+
+.section4{
+	width: auto;
+ 	margin-left: auto;
+ 	padding: 11px;
+ 	margin-top: 10px;
+ 	text-align: justify;
+	justify-content: center;
+	height: 100%;
+	background-color: white;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	border-radius: 4px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+
+
+  								/* КОНЕЦ КОДА */
+ 
+ 
+   								/* ТАБЛИЦА ЭЛЕМЕНТОВ */
+ 
+	  
+ .content55{
+	width: 100%;
+	display: inline-block;
+	background: #fdfdfd;
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+
+#glossary1{
+	font-family: roboto, sans-serif;
+	font-size: 20px;
+	margin: 15px 20px 20px 20px;
+  	color: #5fcf80;
+	font-weight: 400;
+}
+ 
+.glossary{
+  	float: left;
+   	display: block;
+ 	font-family: quicksand;
+ 	text-align: left;
+ 	font-size: 15px;
+ 	line-height: 2.0;
+ 	font-weight: 500;
+ 	margin: 15px 20px 20px 20px;
+ }
+ 
+ .glossary_h{
+	font-size: 99%;
+    color: #888
+    }
+ 
+ li {
+	list-style:none;
+ }
+ 
+ .content55 .glossary a{
+	 color: #777777;
+	  
+ }
+ 
+  .content55 .glossary a:hover{
+	color: #fca523;
+ }
+
+   								/* КОНЕЦ КОДА */
+
+ 
+ 
+  .content56{
+	width: 100%;
+		display: inline-block;
+ 	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+  }
+ 
+
+
+ .table1{
+	 	display: inline-block;
+ }
+ 
+
+.td1{
+	font-family: consolas;
+	border-right: 3px solid #6ce26c;
+	display: inline-block;
+	line-height: 1em;
+	color: #afafaf;
+	}
+	
+.td2{
+		display: inline-block;
+		color: #0085aa;
+
+}
+ 
+ span {
+	 color: #7e7e7e;
+ }
+
+
+
+
+
+.pervie_6{
+	width: 100%;
+		flex: 0 0 auto;
+	min-height: 110%;
+ display: inline-block;
+ }
+.book{
+
+		width: 100%;
+	height: 100%;
+	margin-top: 10px;
+	float: left;
+	width: 15%;
+ 	justify-content: center
+	
+	
+ 
+}
+
+
+
+ 
+ 
+footer{
+	flex: 0 0 auto;
+   	color: white;
+ 	background-color: #5fcf80;
+	text-align: center;
+	padding: 25px;
+ 	border-top: 1px solid #d7d7d7;
+	min-height: 110%;
+ 	font-size: 1em;
+	font-family: "source sans pro";
+	font-weight: 100;
+	text-align: left
+  }
+  
+ footer a{
+	 color: white;
+ }
+.cher{
+  float:right;
+  }
+ 
+
+ 
+/* ---------------------------- FEATURES ------------------- */
+.features-table{
+  font-family: "varela round";
+  width: 72%;
+  margin: 0px auto;
+  border-collapse: separate;
+  border-spacing: 10;
+  text-shadow: 0 1px 0 #fff;
+  color: rgba(42, 42, 42, 0.61);
+  background: #fafafa;
+  background-image: -moz-linear-gradient(top, #fff, #eaeaea, #fff); /* Firefox 3.6 */
+  background-image: -webkit-gradient(linear,center bottom,center top,from(#fff),color-stop(0.5, #eaeaea),to(#fff));
+  margin-top:10px;
+  margin-bottom:10px;
+}
+ 
+.features-table td
+{
+  height: 35px;
+  padding: 0 10px;
+  border-bottom: 2px solid #f2f1f1;
+  box-shadow: 0 1px 0 white;
+  -moz-box-shadow: 0 1px 0 white;
+  -webkit-box-shadow: 0 1px 0 white;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}
+ 
+.features-table tbody td
+{
+  text-align: center;
+  width: 150px;
+}
+ 
+ 
+.features-table td.grey
+{
+  background: #efefef;
+  background: rgba(144,144,144,0.15);
+  border-right: 1px solid white;
+}
+ 
+.features-table td.green
+{
+  background: #e7f3d4;
+  background: rgba(184,243,85,0.3);
+}
+ 
+ 
+ 
+.features-table thead td
+{
+   -moz-border-radius-topright: 10px;
+  -moz-border-radius-topleft: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top: 1px solid #eaeaea;
+}
+ 
+.features-table tfoot td
+{
+  font-size: 120%;
+  font-weight: bold;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom: 1px solid #dadada;
+}
+/* ---------------------------- FEATURES ------------------- */
+
+
+
+#love:hover{
+	color: #b20303;
+	}
+	
+
+a:visited{
+	color: #bababa;
+}
+
+a:link{
+	color: gray;
+}
+
+a:hover{
+	color: #fca523;
+	}
+	
+
+	
+								/* ВЫДЕЛЕНИЕ ТЕКСТА ПРИ ВЫДЕЛИНИИ */
+::selection{
+	background: #f9f9be;
+	}
+::-moz-selection{
+	background: #f9f9be;
+	}
+::-webkit-selection {background: #f9f9be; color:#f9f9be;}
+						/* -------------- КОНЕЦ КОДА ---------------- */
+
+
+
+#basefont1{ /* на странице head сделал наклон в описании */
+	font-style: italic;
+	font-size: 0.75em;
+	color: gray;
+}
+
+@media screen and (max-width: 950px){
+	.main_1{
+		font-size: 1.2em;
+		padding-top: 50px;
+		padding-bottom: 50px;
+
+	}
+}
+  
+
+
+
+ 
